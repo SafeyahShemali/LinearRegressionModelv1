@@ -7,7 +7,7 @@ This is a program that designed to train a linear regression model  with with gr
 
 The best fit I got for the model is when the learning rate (alpha) = 0.7 as the loss is the minimum. The hyperplane of the model is iullistrated in the figure below.
 
-![result](lrFigure)
+![result](lrFigure.png)
 
 ## Getting Started 🚀
 
